@@ -71,5 +71,6 @@ Feel free to replace `[repository_url]` with the actual URL of your Git reposito
 ![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/fdcd8228-b13e-4950-acc8-528418973ede)
 ![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/105bc211-9fa7-477d-8182-de02e1e50641)
 ![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/66f74ff5-dd67-4946-9837-01b19e90e5ab)
-![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/626d1785-8083-4afe-bbc3-fc730113de7a)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/581a0d52-078d-4d56-91f9-22c69a78aa75)
+
 
