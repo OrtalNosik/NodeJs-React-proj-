@@ -1,60 +1,32 @@
-
 # CopingTogether
 
-**Overview**
+## Overview
 
-CopingTogether is a web-based application designed to facilitate collective coping in various situations. The platform enables users to share experiences, provide mutual support, and discover helpful resources.
+CopingTogether is an application that helps people to cope with various situations together. It is a web-based application that provides a platform for people to share their experiences, offer support to each other, and find resources to help them cope.
 
-**Installation**
+## Installation
 
-To run the CopingTogether app, ensure you have Node.js installed on your machine. Follow these steps:
+To run the CopingTogether app, you will need to have [Node.js](https://nodejs.org/) installed on your computer.
 
 1. Clone this repository to your local machine.
-   ```bash
-   git clone [repository_url]
-   ```
+2. Open your terminal and navigate to the project directory.
+3. Install the required dependencies by running `npm install`.
 
-2. Navigate to the project directory in your terminal.
-   ```bash
-   cd CopingTogether
-   ```
+## Usage
 
-3. Install the required dependencies.
-   ```bash
-   npm install
-   ```
-
-**Usage**
-
-To launch the CopingTogether app, follow these steps:
+To start the CopingTogether app, follow these steps:
 
 1. Open your terminal and navigate to the project directory.
-   ```bash
-   cd CopingTogether
-   ```
+2. Run the app by entering `npm start` in your terminal.
+3. Run the server by entering `node src/connect.js` in your terminal.
 
-2. Start the app.
-   ```bash
-   npm start
-   ```
+## Testing
 
-3. Run the server.
-   ```bash
-   node src/connect.js
-   ```
-
-**Testing**
-
-To execute tests for the CopingTogether app:
+To run the tests for the CopingTogether app, follow these steps:
 
 1. Open your terminal and navigate to the project directory.
-   ```bash
-   cd CopingTogether
-   ```
+2. Run the tests by entering `npm test` in your terminal.
 
-2. Run the tests.
-   ```bash
-   npm test
-   ```
+## License
 
-Feel free to replace `[repository_url]` with the actual URL of your Git repository.
+This project is licensed under the SCE

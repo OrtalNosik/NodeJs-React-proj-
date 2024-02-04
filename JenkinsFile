@@ -1,0 +1,42 @@
+pipeline {
+    agent {
+        docker {
+            image 'node:16-alpine'
+        }
+    }
+    stages {
+        stage('Install Dependencies') {            
+            steps {
+                sh 'npm install'
+            }
+        }
+        stage('Linting') {
+            steps {
+                sh 'npm run lint'
+            }
+        }
+        stage('Run Unit & Integration testing') {
+            steps {
+                sh 'npm test'
+            }
+        }
+        stage('Code Coverage') {
+            steps {
+                sh 'npm run coverage' // Run Istanbul code coverage command
+            }
+        }
+        stage('Static Code Analysis') {
+            steps {
+                sh 'npm run analyze' // Run static code analysis tool (e.g., ESLint, SonarQube)
+            }
+        }
+       stage('Code Complexity Analysis') {
+            steps {
+                sh 'npm install nyc --save-dev' // Install nyc locally
+                sh 'npx nyc --reporter=lcov --reporter=text npm test' // Run tests with code coverage
+                sh 'npx nyc report --reporter=text-summary' // Display coverage summary
+            }
+        }
+
+    }
+}
