@@ -4,6 +4,12 @@
 
 CopingTogether is a web-based application designed to facilitate collective coping in various situations. The platform enables users to share experiences, provide mutual support, and discover helpful resources.
 
+**Auters:
+ortal nosik
+rotem hadad
+itay ben yair
+tal maimon
+
 **Installation**
 
 To run the CopingTogether app, ensure you have Node.js installed on your machine. Follow these steps:
@@ -57,3 +63,13 @@ To execute tests for the CopingTogether app:
    ```
 
 Feel free to replace `[repository_url]` with the actual URL of your Git repository.
+
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/73c9a62f-401a-4347-9b58-f5aaabcbd655)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/24ca9c14-1bfb-4abc-b228-b1bf5919f5e1)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/e5687a1d-4363-43bc-86d4-c2758662a493)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/7cc60c25-f27f-4f37-bdbe-6781087c55b0)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/fdcd8228-b13e-4950-acc8-528418973ede)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/105bc211-9fa7-477d-8182-de02e1e50641)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/66f74ff5-dd67-4946-9837-01b19e90e5ab)
+![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/626d1785-8083-4afe-bbc3-fc730113de7a)
+
