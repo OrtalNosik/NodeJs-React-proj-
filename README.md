@@ -64,6 +64,7 @@ To execute tests for the CopingTogether app:
 
 Feel free to replace `[repository_url]` with the actual URL of your Git repository.
 
+## Screens UI
 ![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/73c9a62f-401a-4347-9b58-f5aaabcbd655)
 
 ![image](https://github.com/OrtalNosik/NodeJs-React-proj-/assets/93153515/daa523ff-7a92-4f1c-8154-40c598909adb)
